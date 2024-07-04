@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Earth.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Homescreen.unity
+    guid: bd259691423c245d19a825896ce7bf16
+  - enabled: 1
+    path: Assets/Scenes/Mars.unity
+    guid: 081d3b5260479432f9d50bfb400f833a
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 1f086a28b48d842259426d2fa05a7c2c, type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: bad03fdda002e4c04b21e0d66c260841, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 9b5bb4fd55bb34af6957880a18be32c6, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 8e93ab95bb43e462b9289c12442882a9, type: 2}
